@@ -1,1 +1,3 @@
-# cryptocurrencies
+# Cryptocurrencies
+
+Challenge 18!
